@@ -1,0 +1,3 @@
+conda activate deeplive
+cd "C:\Users\cclan\Deep-Live-Cam"
+python run.py --execution-provider cuda
